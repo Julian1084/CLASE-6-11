@@ -1,0 +1,6 @@
+{
+  "name": "Administración del Personal - Clase 4/11",
+  "description": "Suite de presentación ejecutiva y análisis teórico para la clase de Administración del Personal (Chiavenato): Cap. 8 Evaluación del desempeño, Cap. 9 Remuneración, Cap. 10 Prestaciones y servicios, y Cap. 11 Entrenamiento de personal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
